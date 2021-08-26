@@ -1,0 +1,1 @@
+alert("This is alert msg from public/app.js");
